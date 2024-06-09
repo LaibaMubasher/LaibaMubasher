@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*F4t8-xz-b98ZcvEH.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laibamubasher&label=Profile%20views&color=0e75b6&style=flat" alt="laibamubasher" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
