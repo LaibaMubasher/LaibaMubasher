@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laiba Mubasher</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
+<h3 align="center">A passionate Data Scientist </h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*F4t8-xz-b98ZcvEH.gif">
 
